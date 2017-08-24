@@ -1,0 +1,9 @@
+E:\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+E:\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+E:\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+E:\HomeWork2\HomeWork2\obj\Debug\task1.csprojResolveAssemblyReference.cache
+E:\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+E:\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
+E:\Уроки\C#\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+E:\Уроки\C#\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+E:\Уроки\C#\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb

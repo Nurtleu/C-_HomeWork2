@@ -1,0 +1,12 @@
+D:\HomeWork2\task7\bin\Debug\task7.exe.config
+D:\HomeWork2\task7\bin\Debug\task7.exe
+D:\HomeWork2\task7\bin\Debug\task7.pdb
+D:\HomeWork2\task7\obj\Debug\task7.csprojResolveAssemblyReference.cache
+D:\HomeWork2\task7\obj\Debug\task7.exe
+D:\HomeWork2\task7\obj\Debug\task7.pdb
+E:\Уроки\C#\HomeWork2\task7\bin\Debug\task7.exe.config
+E:\Уроки\C#\HomeWork2\task7\obj\Debug\task7.exe
+E:\Уроки\C#\HomeWork2\task7\obj\Debug\task7.pdb
+E:\Уроки\C#\HomeWork2\task7\bin\Debug\task7.exe
+E:\Уроки\C#\HomeWork2\task7\bin\Debug\task7.pdb
+E:\Уроки\C#\HomeWork2\task7\obj\Debug\task7.csprojResolveAssemblyReference.cache

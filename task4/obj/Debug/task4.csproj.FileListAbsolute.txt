@@ -1,0 +1,8 @@
+E:\HomeWork2\task4\bin\Debug\task4.exe.config
+E:\HomeWork2\task4\bin\Debug\task4.exe
+E:\HomeWork2\task4\bin\Debug\task4.pdb
+E:\HomeWork2\task4\obj\Debug\task4.exe
+E:\HomeWork2\task4\obj\Debug\task4.pdb
+E:\Уроки\C#\HomeWork2\task4\bin\Debug\task4.exe.config
+E:\Уроки\C#\HomeWork2\task4\obj\Debug\task4.exe
+E:\Уроки\C#\HomeWork2\task4\obj\Debug\task4.pdb

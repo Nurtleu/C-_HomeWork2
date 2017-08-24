@@ -1,0 +1,11 @@
+D:\Уроки\C#\HomeWork2\task10\bin\Debug\task10.exe.config
+D:\Уроки\C#\HomeWork2\task10\bin\Debug\task10.exe
+D:\Уроки\C#\HomeWork2\task10\bin\Debug\task10.pdb
+D:\Уроки\C#\HomeWork2\task10\obj\Debug\task10.exe
+D:\Уроки\C#\HomeWork2\task10\obj\Debug\task10.pdb
+E:\Уроки\C#\HomeWork2\task10\bin\Debug\task10.exe.config
+E:\Уроки\C#\HomeWork2\task10\obj\Debug\task10.exe
+E:\Уроки\C#\HomeWork2\task10\obj\Debug\task10.pdb
+E:\Уроки\C#\HomeWork2\task10\bin\Debug\task10.exe
+E:\Уроки\C#\HomeWork2\task10\bin\Debug\task10.pdb
+E:\Уроки\C#\HomeWork2\task10\obj\Debug\task10.csprojResolveAssemblyReference.cache

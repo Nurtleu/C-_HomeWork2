@@ -1,0 +1,11 @@
+D:\HomeWork2\task8\bin\Debug\task8.exe.config
+D:\HomeWork2\task8\bin\Debug\task8.exe
+D:\HomeWork2\task8\bin\Debug\task8.pdb
+D:\HomeWork2\task8\obj\Debug\task8.exe
+D:\HomeWork2\task8\obj\Debug\task8.pdb
+D:\Уроки\C#\HomeWork2\task8\bin\Debug\task8.exe.config
+D:\Уроки\C#\HomeWork2\task8\bin\Debug\task8.exe
+D:\Уроки\C#\HomeWork2\task8\bin\Debug\task8.pdb
+D:\Уроки\C#\HomeWork2\task8\obj\Debug\task8.csprojResolveAssemblyReference.cache
+D:\Уроки\C#\HomeWork2\task8\obj\Debug\task8.exe
+D:\Уроки\C#\HomeWork2\task8\obj\Debug\task8.pdb
